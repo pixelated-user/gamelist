@@ -1,0 +1,12 @@
+<div id="flash-container"></div>
+<script src="https.//gamelist.github.io/Ruffle/Corefiles/ruffle.js"></script>
+<script>
+    window.RufflePlayer = window.RufflePlayer || {};
+    window.addEventListener("load", (event) => {
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+        const container = document.getElementById("flash-container");
+        container.appendChild(player);
+        player.load("//Run3.swf");
+    });
+</script>
