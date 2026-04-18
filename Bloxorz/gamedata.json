@@ -1,0 +1,7 @@
+{
+    "version": 1,
+    "emulator": "ruffle.rs@ruffle"
+    "primaryswf": "bloxorz_miniclip.swf"
+    "additionalswf": "bloxorz_0.swf"
+    "GameID": "109934"
+}
