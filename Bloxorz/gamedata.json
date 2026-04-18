@@ -3,5 +3,6 @@
     "emulator": "ruffle.rs@ruffle"
     "primaryswf": "bloxorz_miniclip.swf"
     "additionalswf": "bloxorz_0.swf"
+    "additionalswf": "flash_bloxorz.swf"
     "GameID": "109934"
 }
